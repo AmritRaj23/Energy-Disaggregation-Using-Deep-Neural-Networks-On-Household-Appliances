@@ -1,5 +1,9 @@
 # Energy-Disaggregation-Using-Deep-Neural-Networks-On-Household-Appliances
 
+<p align="center">
+  <img src="https://github.com/AmritRaj23/Energy-Disaggregation-Using-Deep-Neural-Networks-On-Household-Appliances/blob/master/Cover.JPG"/>
+</p>
+
 ## Description 
 
 This project contains my bachelor thesis (pdf) titiled Energy Disaggregation Using Deep Neural Networks on Household Appliances. 
