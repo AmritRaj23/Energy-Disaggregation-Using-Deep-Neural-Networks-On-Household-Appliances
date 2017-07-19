@@ -4,7 +4,7 @@
 
 ## Description 
 
-This project contains my bachelor thesis (pdf) titiled Energy Disaggregation Using Deep Neural Networks on Household Appliances. The duration of this thesis was 3 months. 
+This project contains my bachelor thesis (pdf) titled Energy Disaggregation Using Deep Neural Networks on Household Appliances. The duration of this thesis was 3 months. 
 
 ## Problem Statement 
 
